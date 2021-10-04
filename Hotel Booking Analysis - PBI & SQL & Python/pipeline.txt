@@ -1,0 +1,7 @@
+Data analysis pipeline :
+
+1- build a database 
+2- develop SQL queries 
+3- connect Power BI to the database 
+4- visualize 
+5- summarize findings 

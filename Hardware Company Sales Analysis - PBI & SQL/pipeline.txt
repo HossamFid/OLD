@@ -1,0 +1,6 @@
+data discovery
+data cleaning (ETL)
+data modeling 
+Make calculation - measures (revenue - total qty - total profit margin - profit margin  % - profit margin contribution % - revenue contribution % )
+Build Dashboard Or a ReportBuild Dashboard Or a Report
+Publish the report(mobile Dashboard)

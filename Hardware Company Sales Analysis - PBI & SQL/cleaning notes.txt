@@ -1,0 +1,7 @@
+markets table has new york and paris markets names (remove)
+
+transactions  table has sales amount of -1 and 0 (remove)
+
+transactions has USD currency (* 75 indian currency ) to get INR 
+
+remove duplicates from transactions table (currency USD, INR)
