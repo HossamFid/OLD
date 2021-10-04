@@ -24,5 +24,5 @@ Improve internet sales reports and want to move from static reports to visual da
 Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs .Using the data provided to analyze the data to determine what variables are correlated with customer churn, if any. Additionally, a prediction model, to identify the people that might churn.
 
 
-Text analysis Desc and Real state Desc coming soon !!! 
+IPL EDA, Text analysis Desc and Real state Desc coming soon !!! 
 there is a problem uploading the Face Detection web app , I'm working on it
