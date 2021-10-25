@@ -1,8 +1,0 @@
-numpy
-pandas 
-scipy 
-matplotlib
-jupyter
-scikit-learn
-opencv-python
-flask 
